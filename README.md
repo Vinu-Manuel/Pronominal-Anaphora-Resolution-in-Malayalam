@@ -7,7 +7,7 @@ pip install mlmorph
 
 Citation for mlmorph:
 
-<prep>
+<pre>
 @inproceedings{thottingal-2019-finite,
     title = "Finite State Transducer based Morphology analysis for {M}alayalam Language",
     author = "Thottingal, Santhosh",
@@ -19,4 +19,4 @@ Citation for mlmorph:
     url = "https://www.aclweb.org/anthology/W19-6801",
     pages = "1--5",
 }
-</prep>
+</pre>
